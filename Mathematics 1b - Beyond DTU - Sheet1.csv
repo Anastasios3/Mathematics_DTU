@@ -1,0 +1,23 @@
+Week,Video Title,Link,Notes
+1 Functions,Intro to Multivariable Functions — Prof. Leonard,Watch,"Domain, sketching, level curves, contour plots. Start here."
+1 Functions,Limits and Continuity of Multivariable Functions — Prof. Leonard,Watch,"Limits, squeeze theorem, regions of continuity."
+2 Differentiability,Partial Derivatives — Prof. Leonard,Watch,"First and higher order partials, implicit differentiation."
+2 Differentiability,Finding Differentials — Prof. Leonard,Watch,Linearization and the differential. Connects to JfJf​.
+2 Differentiability,Chain Rule for Multivariable Functions — Prof. Leonard,Watch,All chain rule cases. Dependency diagrams.
+2Differentiability,Directional Derivatives and Gradients — Prof. Leonard,Watch,"Gradient ∇f∇f, directional derivatives. 2h37m."
+3 Inner Product Spaces,Inner Product Spaces and Gram-Schmidt — Kobotis,Watch,"Abstract inner products, orthonormal bases, Gram-Schmidt. 1h09m."
+3 Inner Product Spaces,Eigenvectors and Eigenvalues — 3Blue1Brown,Watch,Watch before Week 4. Best 17-minute intuition build.
+4 Spectral Theorem,Spectral Theorem for Dummies — SoME3,Watch,"Inner products, adjoint, self-adjoint matrices, full theorem."
+5 Taylor,Taylor's Theorem for Multivariable Functions — Dr. Maultsby,Watch,"First and second order Taylor, HfHf​ in T2T2​. 35m."
+5 Taylor,Multivariable Taylor Polynomials — Dr. Tisdell,Watch,"Worked examples, error and remainder. 54m."
+6 Extrema,Finding Extrema of Functions of 2 Variables — Prof. Leonard,Watch,"Critical points, second derivative test via det⁡(Hf)det(Hf​)."
+6 Extrema,Constrained Optimization with Lagrange Multipliers — Prof. Leonard,Watch,Lagrange multipliers in full. Most exam-relevant video of Week 6.
+7 Integration 1D,Essence of Calculus playlist — 3Blue1Brown,Watch,Watch Ch. 1 and Ch. 8 on Riemann sums. Builds the theory for Week 8.
+8 Integration nD,Double Integrals over Polar Regions — Prof. Leonard,Watch,"Polar coordinates, translating rectangular to polar. 3h25m."
+8 Integration nD,Triple Integrals with Cylindrical and Spherical Coordinates — Prof. Leonard,Watch,Spherical and cylindrical change of variables. 3h20m.
+9 Vector Fields,Line Integrals — Prof. Leonard,Watch,Line integrals over scalar and vector fields. 2h17m.
+9 Vector Fields,All of Multivariable Calculus in One Formula,Watch,"Watch last. Connects line integrals, surface integrals, Stokes. Excellent closer."
+,,,
+,,,
+,,,
+,Follow strict order please,,
